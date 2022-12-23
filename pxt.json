@@ -1,0 +1,47 @@
+{
+    "name": "micro-bit-starter-kit",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "Project 1 - Displaying Hello World/README.md",
+        "Project 10 - Active Buzzer/README.md",
+        "Project 11 - Passive Buzzer/README.md",
+        "Project 12 - Driving Servo Motor/README.md",
+        "Project 13 - Flame Alarm/README.md",
+        "Project 14 - 1-digit LED Display/README.md",
+        "Project 15 - Magical Light Cup/README.md",
+        "Project 16 - Microbit Analog Read/README.md",
+        "Project 17 - Thermistor Sensor/README.md",
+        "Project 18 - LM35 Temperature Sensor/README.md",
+        "Project 2 - Blinking an LED/README.md",
+        "Project 3 - Simulating Advertising Light/README.md",
+        "Project 4 - Button Controlled LED/README.md",
+        "Project 5 - Making a Responder/README.md",
+        "Project 6 - Breathing LED/README.md",
+        "Project 7 - Controlling LED Brightness/README.md",
+        "Project 8 - RGB LED/README.md",
+        "Project 9 - Photosensitive Light/README.md",
+        "README.md",
+        "main.blocks",
+        "main.ts",
+        "_locales/en-AU/Project 14 - 1-digit LED Display/README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v5.0.12",
+        "tag": "v5.0.12",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/97491d6832cccab6b5bdc05b58e4c6b5dcc18cdd",
+        "target": "5.0.12",
+        "pxt": "8.0.7",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
